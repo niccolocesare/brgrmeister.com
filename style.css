@@ -1,5 +1,35 @@
+/* General */
+
 body {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Navigation Bar */
+
+nav {
+    text-align: center;
+}
+
+nav img {
+    display: block;
+    width: 200px;
+    margin: 0px auto;
+}
+
+nav span {
+    display: block;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 10px auto;
+}
+
+nav a {
+    color: #666666;
 }
