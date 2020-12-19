@@ -71,6 +71,15 @@ nav a {
 
 /* Content Body */
 
-.body {
+.content .body {
+    width: 90%;
+    margin: 0px auto;
+}
 
+.body p {
+  color: #333333;
+  font-weight: 100;
+  line-height: 34px;
+  width: 90%;
+  margin-top: 18px;
 }
