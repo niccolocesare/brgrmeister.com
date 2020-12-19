@@ -101,3 +101,21 @@ nav a {
     border: 1px solid #05A8AA;
     color: #FFF;
 }
+
+/* Contacts Section */
+
+footer {
+  background-color: #05A8AA;
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 40px;
+  width: 100%;
+  letter-spacing: 2px;
+}
+
+footer span {
+    margin: 0px auto;
+    padding: 0px 100px;
+}
